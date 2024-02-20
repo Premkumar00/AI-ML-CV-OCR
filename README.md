@@ -1,2 +1,2 @@
 # AI-ML-CV-OCR
-project for multipara monitors
+project to read the data from multipara monitors video feed
